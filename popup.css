@@ -1,0 +1,8 @@
+body {
+  min-width: 300px;
+  font-size: 20px;
+}
+
+#messages div {
+  margin-bottom: 10px;
+}
